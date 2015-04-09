@@ -1,1 +1,4 @@
 * text=auto
+
+*.min.js -diff
+*.min.css -diff
